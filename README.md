@@ -73,6 +73,9 @@ The application provides an interactive interface for experimenting with supervi
                 │ Select Classifier    │
                 │ • Logistic Regression│
                 │ • SVM                │
+                │ • KNN                │
+                │ • NeuralNetwork      │
+                │ • Random Forest      │
                 └──────────┬───────────┘
                            │
                            ▼
